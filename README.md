@@ -1,5 +1,3 @@
-# prinf
-
 # C - printf team project
 
 ## Synopsis
