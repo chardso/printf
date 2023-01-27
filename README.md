@@ -29,7 +29,8 @@ Write a function that produces output according to a format.
 
                                                                                                                                                            
 write output to stdout, the standard output stream
-format is a character string. The format string is composed of zero or more directives. See man 3 printf for more detail. You need to handle the following conversion specifiers:
+format is a character string. 
+The format string is composed of zero or more directives. See man 3 printf for more detail. You need to handle the following conversion specifiers:
    c
    s
    %
