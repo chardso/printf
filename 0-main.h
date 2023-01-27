@@ -12,4 +12,3 @@ int _power_recursion(int x, int y);
 int to_Hexa(unsigned int num);
 
 #endif
-
